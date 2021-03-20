@@ -1,2 +1,1 @@
-# soupeur-ui
-UI of the soup
+# soupeur-farm-ui
